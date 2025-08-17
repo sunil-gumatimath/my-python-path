@@ -23,6 +23,12 @@ This repository contains various Python practice scripts covering fundamental co
 - `oops_concepts/`: Another directory for Object-Oriented Programming examples.
   - `oop.py`: Defines a `Microwave` class with methods for turning on/off, running, and custom `__add__`, `__mul__`, `__str__`, and `__repr__` methods.
 
+- `5 Good Python Habits/`: Contains scripts demonstrating good Python programming practices.
+  - `main_tip_three.py`: Demonstrates clear function definitions and early exit conditions for improved readability and maintainability.
+  - `main_tip_two.py`: Illustrates the use of `if __name__ == '__main__':` to ensure functions are called only when the script is executed directly.
+  - `model_main_tips_one.py`: Shows how to import and use functions from other modules, promoting modularity.
+  - `module.py`: Defines a simple `connect` function to simulate a network connection, used by `model_main_tips_one.py`.
+
 ## How to Run
 
 To run any of the Python scripts, navigate to the respective directory in your terminal and execute the script using Python:
@@ -33,6 +39,8 @@ python your_script_name.py
 
 For example:
 
+```bash
+python basic/app.py
 ```
 
 ## Recent Fixes
