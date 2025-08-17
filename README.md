@@ -13,6 +13,7 @@ This repository contains various Python practice scripts covering fundamental co
   - `second_trick.py`: Demonstrates string alignment (right, left, center) with custom padding characters.
   - `third_trick.py`: Illustrates formatting `datetime` objects using various format codes.
   - `fourth_trick.py`: Provides examples of formatting floating-point numbers to specific decimal places and with thousands separators.
+  - `fifth_trick.py`: Demonstrates self-documenting f-strings (Python 3.8+), which print the expression and its value.
 
 - `ObjectOriented/`: Contains examples of Object-Oriented Programming (OOP) concepts.
   - `car.py`: Defines a `Car` class with attributes (make, model, year, color) and methods (`drive`, `stop`).
