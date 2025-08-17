@@ -33,6 +33,8 @@ python your_script_name.py
 
 For example:
 
-```bash
-cd basic
-python app.py
+```
+
+## Recent Fixes
+
+- **5 Good Python Habits/main_tip_three.py**: Corrected a syntax error in the `entry_club` function where `is_bob(name):` was missing an `if` statement, leading to a `Pylance Error: Expected expression`. The line was updated to `if is_bob(name):`.
