@@ -8,19 +8,19 @@ This repository contains various Python practice scripts covering fundamental co
   - `app.py`: Includes examples of string manipulation, arithmetic operations, conditional logic (if/elif/else, ternary operator), loops (for, while), and function definitions (with default arguments and `*args`).
   - `main.py`: Demonstrates basic data types (int, float, str, bool, list, tuple, set, dict), type annotations, `Final` keyword, `datetime` module usage, and a simple `Car` class with `__str__` and `__add__` methods.
 
-- `f String Trick/`: Focuses on various f-string formatting techniques.
+- `f_string_tricks/`: Focuses on various f-string formatting techniques.
   - `first_trick.py`: Shows how to format large integers with underscores and commas for readability.
   - `second_trick.py`: Demonstrates string alignment (right, left, center) with custom padding characters.
   - `third_trick.py`: Illustrates formatting `datetime` objects using various format codes.
   - `fourth_trick.py`: Provides examples of formatting floating-point numbers to specific decimal places and with thousands separators.
   - `fifth_trick.py`: Demonstrates self-documenting f-strings (Python 3.8+), which print the expression and its value.
 
-- `ObjectOriented/`: Contains examples of Object-Oriented Programming (OOP) concepts.
+- `object_oriented/`: Contains examples of Object-Oriented Programming (OOP) concepts.
   - `car.py`: Defines a `Car` class with attributes (make, model, year, color) and methods (`drive`, `stop`).
   - `inheritance.py`: Demonstrates inheritance with an `Animal` base class and `Dog`, `Cat`, `Mouse` subclasses, each with a `speak` method.
   - `main.py`: Imports and uses the `Car` class from `car.py`, creating `Car` objects and calling their methods.
 
-- `OOPs/`: Another directory for Object-Oriented Programming examples.
+- `oops_concepts/`: Another directory for Object-Oriented Programming examples.
   - `oop.py`: Defines a `Microwave` class with methods for turning on/off, running, and custom `__add__`, `__mul__`, `__str__`, and `__repr__` methods.
 
 ## How to Run

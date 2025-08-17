@@ -7,7 +7,7 @@ my_var: str = 'bob says hi'
 
 # The f-string syntax `{a + b = }` will print the expression `a + b`
 # followed by its value.
-print(f'{a + b = }')
+print(f'{a + b=}')
 
 # This also works with function calls inside the f-string.
-print(f'{bool(a)= }')
+print(f'{bool(a)=}')
