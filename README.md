@@ -24,6 +24,9 @@ This repository contains various Python practice scripts covering fundamental co
   - `oop.py`: Defines a `Microwave` class with methods for turning on/off, running, and custom `__add__`, `__mul__`, `__str__`, and `__repr__` methods.
 
 - `5 Good Python Habits/`: Contains scripts demonstrating good Python programming practices.
+  - `main_tip_fifth.py`: Demonstrates list comprehensions for concise list creation.
+  - `main_tip_fourth_1.py`: Illustrates type annotations for function parameters and return values, and how type checkers can use them.
+  - `main_tip_fourth_2.py`: Shows type annotation for a list with mixed types (`str | int`).
   - `main_tip_three.py`: Demonstrates clear function definitions and early exit conditions for improved readability and maintainability.
   - `main_tip_two.py`: Illustrates the use of `if __name__ == '__main__':` to ensure functions are called only when the script is executed directly.
   - `model_main_tips_one.py`: Shows how to import and use functions from other modules, promoting modularity.
