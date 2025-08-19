@@ -1,5 +1,6 @@
 from typing import List
 
+
 def upper_everything(elements: List[str]) -> List[str]:
     """Converts a list of strings to uppercase using type annotations.
 
